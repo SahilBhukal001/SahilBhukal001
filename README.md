@@ -1,4 +1,4 @@
-![logo](https://github.com/SahilBhukal001/SahilBhukal001/blob/main/Sahil%20BHUKAL.png)
+![logo](https://github.com/SahilBhukal001/SahilBhukal001/blob/main/Sahil%20BHUKAL%20(1).png)
 <h1 align="center">Hi there 👋, I'm Sahil Bhukal</h1>
 <h3 align="center">Aspiring Backend Developer with Spring Boot</h3>
 
