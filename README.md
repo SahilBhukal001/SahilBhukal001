@@ -45,14 +45,4 @@
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sahilbhukal&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilbhukal&show_icons=true&locale=en" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbhukal&" alt="GitHub Streak" />
-</div>
