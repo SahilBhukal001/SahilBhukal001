@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Skeeda**
 
-- 👨‍💻 Check out my live project: [Meoww Game](https://meowwgame.000webhostapp.com/) , [Gun-Bazzar](https://650122d788d319234cdc143d--registrationpager.netlify.app/)
+- 👨‍💻 Check out my live project: [Meoww Game](https://meowwgame.000webhostapp.com/) , [Gun-Bazzar]([https://650122d788d319234cdc143d--registrationpager.netlify.app/](https://gunbazzar.netlify.app/))
 
 - 💬 My passion in 2023: **Web Development + Problem Solving**
 
